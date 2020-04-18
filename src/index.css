@@ -33,7 +33,7 @@ ol, ul {
   padding: 0;
   text-align: center;
   width: 100px;
-  background-color: lightgreen;
+  background-color: purple;
 }
 
 .square:focus {
